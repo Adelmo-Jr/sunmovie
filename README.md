@@ -4,18 +4,18 @@
 
 <br>
 
-<h2>🖥️ Tela Inicial </h2>
-<p>
-    <img alt="Readme" title="Readme" src="./captura/telaini.png"></p>
-
+<h2>🖥️ Tela Inicial
+    <img alt="Readme" title="Readme" src="./captura/telaini.PNG" >
+</h2>
+    
 <hr>
 
 <br>
 
-<h2>🖥️ Tela de Formulário </h2>
-<p>
-    <img alt="Readme" title="Readme" src="./captura/telaform.png">
-    </p>
+<h2>🖥️ Tela de Formulário
+    <img alt="Readme" title="Readme" src="./captura/telaform.PNG" >
+</h2>    
+    
 </div>
 
 <br>
