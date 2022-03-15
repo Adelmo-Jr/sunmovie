@@ -4,17 +4,15 @@
 
 <br>
 
-<h2>🖥️ Tela Inicial
-    <img alt="Readme" title="Readme" src="./captura/telaini.PNG" >
-</h2>
-    
-<hr>
+<h2 align="center">🖥️ Tela Inicial</h2>
+    <p align="center">
+    <img alt="Readme" title="inicial" src="https://user-images.githubusercontent.com/85259746/158388174-73153b8b-2693-4381-99f6-e66fa350e9c1.PNG" width="100%">                                 
+  </p>                                        
 
-<br>
-
-<h2>🖥️ Tela de Formulário
-    <img alt="Readme" title="Readme" src="./captura/telaform.PNG" >
-</h2>    
+<h2 align="center">🖥️ Tela de Formulário </h2> 
+    <p align="center">
+<img alt="Readme" title="formulario" src="https://user-images.githubusercontent.com/85259746/158388720-d1e18f63-a3aa-4c8f-acec-71c0cdb21ad3.PNG"  width="100%">
+   </p>
     
 </div>
 
